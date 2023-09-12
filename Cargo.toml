@@ -1,0 +1,27 @@
+[workspace]
+
+members = [
+    "amicable_numbers",
+    "counting_sundays",
+    "even_fibonacci_numbers",
+    "factorial_digit_sum",
+    "highly_divisible_triangular_number",
+    "large_sum",
+    "largest_palindrome_product",
+    "largest_prime_factor",
+    "largest_product_in_a_grid",
+    "largest_product_in_a_series",
+    "lattice_paths",
+    "longest_collatz_sequence",
+    "maximum_path_sum_i",
+    "maximum_path_sum_ii",
+    "multiples_of_three_or_five",
+    "names_scores",
+    "number_letter_counts",
+    "power_digit_sum",
+    "smallest_multiple",
+    "special_pythagorean_triplet",
+    "sum_square_difference",
+    "summation_of_primes",
+    "ten_thousand_and_first_prime",
+]
